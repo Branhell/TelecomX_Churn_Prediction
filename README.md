@@ -8,6 +8,11 @@ El objetivo es **predecir la cancelación de clientes (churn)** en una empresa d
 
 ## 🛠️ Pipeline del Proyecto
 
+## 📂 Dataset
+El dataset utilizado en este proyecto está disponible públicamente en:  
+[TelecomX_Data.json](https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/main/TelecomX_Data.json)
+
+
 1. **Preprocesamiento de Datos**
    - Eliminación de columnas irrelevantes (`customerID`).
    - Codificación de variables categóricas (`get_dummies`).
@@ -86,3 +91,4 @@ Se recomienda ejecutarlo en Google Colab, donde ya están preinstaladas.
 **Brayan Mejía García**  
 Challenge Telecom X – Alura Latam  
 [GitHub](https://github.com/Branhell)
+
