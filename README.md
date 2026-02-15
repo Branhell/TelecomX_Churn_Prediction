@@ -65,6 +65,10 @@ Se recomienda ejecutarlo en Google Colab, donde ya están preinstaladas.
 
 ---
 
+Observaciones del archivo CVS: 
+
+“El dataset original contiene 224 registros sin información en la columna Churn. En el análisis se consideraron los valores válidos (Yes/No) para el modelo predictivo, y en el dashboard se muestran los registros incompletos como categoría ‘Desconocido’ para transparencia.”
+
 ## 🔎 Conclusiones
 
 - **Factores clave de cancelación:**
